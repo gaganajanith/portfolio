@@ -1,4 +1,3 @@
-// src/components/Projects.jsx
 export default function Projects() {
   return (
     <section id="projects">
