@@ -10,10 +10,12 @@ export default function Hero() {
             <div className="hero-buttons">
                 <a href="#projects" className="btn primary">View my work</a>
 
-                href="https://github.com/gaganajanith"
-                target="_blank"
+                <a href="https://github.com/gaganajanith" target="_blank"
                 rel="noreferrer"
-                className="btn"
+                className="btn">
+                    
+                </a>
+
 
                 GitHub
             </div>

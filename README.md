@@ -2,9 +2,6 @@
 
 A personal portfolio website built with React to showcase my projects, skills, and background.
 
-**Live site:** [your-site-url](https://your-site-url)
-
-![Portfolio screenshot](./screenshots/home.png)
 
 ## About
 
